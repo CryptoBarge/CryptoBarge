@@ -32,5 +32,6 @@ ___
 <div align="left">
 
 [![Channel ⚓](https://img.shields.io/badge/Crypto$БАРЖА_|_Subscribe_⚓-5B00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BargeCrypto)
+[![Channel ⚓](https://img.shields.io/badge/Crypto$БАРЖА_|_Chat_💬-5B00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/+nbpTp74UTnVmMmM6)
 
 </div>
