@@ -15,8 +15,8 @@ ___
 
 ## 📈 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoBarge&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="CryptoBarge's github stats"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoBarge&theme=react&hide_border=true&layout=compact" alt="CryptoBarge's top languages"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoBarge&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="Barge's github stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoBarge&theme=react&hide_border=true&layout=compact" alt="Barge's top languages"/></a>
 
 ## 🔗 Other links
 
