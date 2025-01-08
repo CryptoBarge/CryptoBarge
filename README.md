@@ -5,7 +5,7 @@
 
 <kbd>
     <a style="border:5px white" border="5px white" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=Crypto+meets+Java;+From+Grass+to+Bless;+DePIN+software+by+Java" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=+DePIN+software+by+Java;+From+Grass+to+Bless" alt="Typing SVG" />
     </a>
 </kbd>
 
@@ -15,8 +15,8 @@ ___
 
 ## 📈 Stats
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoBarge&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="Barge's github stats"/></a>
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoBarge&theme=react&hide_border=true&layout=compact" alt="Barge's top languages"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=CryptoBarge&theme=react&hide_border=true&show_icons=true&rank_icon=github&show=reviews,discussions_started,discussions_answered" alt="CryptoBarge's github stats"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoBarge&theme=react&hide_border=true&layout=compact" alt="CryptoBarge's top languages"/></a>
 
 ## 🔗 Other links
 
