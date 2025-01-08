@@ -28,6 +28,10 @@ ___
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoBarge&theme=react&hide_border=true&layout=compact" alt="CryptoBarge's top languages"/></a>
 </div>
 
+## Support Me
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=F96R7G8ETR3EL"><img src="https://github.com/Aquarius-blake/Images/blob/main/Profile/img/coffee.png" width="200" height="75" /></a>
+
 ## 🔗 Links
 <div align="left">
 
