@@ -5,7 +5,7 @@
 
 <kbd>
     <a style="border:5px white" border="5px white" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=Crypto+meets+Java;+Code+the+future;+DePIN+powered+by+Java;+From+Grass+to+Bless" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=Crypto+meets+Java;+DePIN+powered+by+Java;+From+Grass+to+Bless" alt="Typing SVG" />
     </a>
 </kbd>
 
