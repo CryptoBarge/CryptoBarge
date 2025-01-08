@@ -4,7 +4,7 @@
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=E2E2E2&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+CryptoBarge)](https://git.io/typing-svg)
 
   <!--Crédit https://www.pinterest.com/pin/303993043609738994/-->
-  <img src="https://i.pinimg.com/originals/8b/87/ee/8b87ee9880c7cc71fffd2f92c33d0a1a.gif" width="200"><br><br>
+  <img src="https://i.pinimg.com/originals/71/a4/0b/71a40bd9fa5a833d5885e8cac418bff2.gif" width="200"><br><br>
 
 <kbd>
     <a style="border:5px white" border="5px white" href="https://git.io/typing-svg">
