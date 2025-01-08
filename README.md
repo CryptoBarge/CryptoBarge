@@ -5,9 +5,10 @@
 
 <kbd>
     <a style="border:5px white" border="5px white" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=+DePIN+software+by+Java;+From+Grass+to+Bless" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=+DePIN+software+by+JavaScript;+From+Grass+to+Bless" alt="Typing SVG" />
     </a>
 </kbd>
+</div>
 
 ___
 
@@ -24,8 +25,9 @@ ___
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CryptoBarge&theme=react&hide_border=true&layout=compact" alt="CryptoBarge's top languages"/></a>
 </div>
 
-## 🔗 Other links
-
+## 🔗 Links
 <div align="left">
+
 [![Channel ⚓](https://img.shields.io/badge/Crypto$БАРЖА_|_Subscribe_⚓-5B00FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BargeCrypto)
+
 </div>
