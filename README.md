@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=FF68217A&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+CryptoBarge)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Comfortaa&size=30&duration=1&pause=983&color=24F74CFF&center=true&vCenter=true&repeat=false&width=435&lines=Welcome+to+CryptoBarge)](https://git.io/typing-svg)
 
   <!--Crédit https://www.pinterest.com/pin/303993043609738994/-->
   <img src="https://i.pinimg.com/originals/71/a4/0b/71a40bd9fa5a833d5885e8cac418bff2.gif" width="200"><br><br>
