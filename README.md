@@ -18,7 +18,7 @@ ___
 ## 🗃 Projects
 
 <div align="left">
-
+<a href="https://github.com/CryptoBarge/Nodepay-Claimer."><img src=https://github-readme-stats.vercel.app/api/pin/?username=CryptoBarge&repo=Nodepay-Claimer&theme=react&hide_border=true&show_icons=false" alt="Nodepay-Claimer" /></a>
 </div>
 
 ## 📈 Stats
