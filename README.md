@@ -8,7 +8,7 @@
 
 <kbd>
     <a style="border:5px white" border="5px white" href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=+DePIN+software+by+Java" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=30&duration=3500&pause=750&color=72C9E4&center=true&vCenter=true&width=435&lines=+DePIN+software+by+JavaScript" alt="Typing SVG" />
     </a>
 </kbd>
 </div>
