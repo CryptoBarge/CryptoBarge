@@ -17,12 +17,20 @@ ___
 
 ## 🗃 Projects
 
-<div align="left">
-<a href="https://github.com/CryptoBarge/Nodepay-Bot"><img src=https://github-readme-stats.vercel.app/api/pin/?username=CryptoBarge&repo=Nodepay-Bot&theme=react&hide_border=true&show_icons=true" alt="Nodepay-Bot" /></a>
-</div>
-<div align="left">
-<a href="https://github.com/CryptoBarge/Nodepay-Claimer"><img src=https://github-readme-stats.vercel.app/api/pin/?username=CryptoBarge&repo=Nodepay-Claimer&theme=react&hide_border=true&show_icons=true" alt="Nodepay-Claimer" /></a>
-</div>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/CryptoBarge/Nodepay-Bot">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoBarge&repo=Nodepay-Bot&theme=react&hide_border=true&show_icons=true" width="400"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/CryptoBarge/Nodepay-Claimer">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=CryptoBarge&repo=Nodepay-Claimer&theme=react&hide_border=true&show_icons=true" width="460"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 📈 Stats
 
